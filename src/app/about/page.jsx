@@ -178,9 +178,9 @@ const AboutPage = () => {
                 {/* JOB TITLE */}
                 <div className="bg-white p-3 font-semibold rounded-b-lg rounded-s-lg">Junior Software Developer</div>
                 {/* JOB DESCRIPTION */}
-                <div className="p-3 text-sm italic">Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat esse fugit quasi reiciendis quis quam.</div>
+                <div className="p-3 text-sm italic">Collaborating with experienced professionals,gained hands-on experience in coding, testing, and debugging software applications.</div>
                 {/* JOB DATE */}
-                <div className="p-3 text-red-400 tetx-sm font-semibold">2019-2020</div>
+                <div className="p-3 text-red-400 tetx-sm font-semibold">2021-2022</div>
                 {/* JOB COMPANY */}
                 <div className="p-1 rounded bg-white tetx-sm font-semibold w-fit">IDRAK TECHNOLOGY PARK</div>
 
@@ -217,11 +217,11 @@ const AboutPage = () => {
                 {/* JOB TITLE */}
                 <div className="bg-white p-3 font-semibold rounded-b-lg rounded-s-lg">Junior Software Developer</div>
                 {/* JOB DESCRIPTION */}
-                <div className="p-3 text-sm italic">Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat esse fugit quasi reiciendis quis quam.</div>
+                <div className="p-3 text-sm italic">Contributed to the delivery of high-quality software solutions, laying a solid foundation for my career growth in software engineering.</div>
                 {/* JOB DATE */}
-                <div className="p-3 text-red-400 tetx-sm font-semibold">2019-2020</div>
+                <div className="p-3 text-red-400 tetx-sm font-semibold">2020-2021</div>
                 {/* JOB COMPANY */}
-                <div className="p-1 rounded bg-white tetx-sm font-semibold w-fit">IDRAK TECHNOLOGY PARK</div>
+                <div className="p-1 rounded bg-white tetx-sm font-semibold w-fit">Sinteks Group of Companies</div>
               </div>
             </div>
             {/* EXPERIENCE LIST ITEM */}
@@ -231,11 +231,11 @@ const AboutPage = () => {
                 {/* JOB TITLE */}
                 <div className="bg-white p-3 font-semibold rounded-b-lg rounded-s-lg">Junior Software Developer</div>
                 {/* JOB DESCRIPTION */}
-                <div className="p-3 text-sm italic">Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat esse fugit quasi reiciendis quis quam.</div>
+                <div className="p-3 text-sm italic">Crafted a robust database backend, optimizing data management and retrieval processes for enhanced efficiency. </div>
                 {/* JOB DATE */}
-                <div className="p-3 text-red-400 tetx-sm font-semibold">2019-2020</div>
+                <div className="p-3 text-red-400 tetx-sm font-semibold">2023</div>
                 {/* JOB COMPANY */}
-                <div className="p-1 rounded bg-white tetx-sm font-semibold w-fit">IDRAK TECHNOLOGY PARK</div>
+                <div className="p-1 rounded bg-white tetx-sm font-semibold w-fit">ETC - Exam Trainin Center </div>
 
               </div>
               {/* CENTER */}
